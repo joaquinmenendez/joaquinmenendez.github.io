@@ -1,5 +1,5 @@
-<html>
-	<head> Joaquin Menendez's personal page </head>
+<head> Joaquin Menendez </head>
+<html>	
 	<body>
 		<nav>
     		<ul>
