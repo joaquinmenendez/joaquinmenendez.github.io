@@ -1,4 +1,11 @@
 title: Joaquin Menendez
-description: Personal page with contact information. I will add some works in the future.
+description: Personal page
 remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
+avatar: assets/images/avatar.jpg
+
+
+#contact
+email: jm622@duke.edu
+linkedin_url: https://www.linkedin.com/in/joaquin-menendez/
+github_url: https://github.com/joaquinmenendez
