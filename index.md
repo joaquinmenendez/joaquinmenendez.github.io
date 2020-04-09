@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 	<head>
-		<title>Joaquin Menendez's personal page</title>
+		# Joaquin Menendez's personal page
 	</head>
 	<body>
 		<nav>
