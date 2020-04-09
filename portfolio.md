@@ -1,6 +1,6 @@
 ---
 layout: blog
 title: Portfolio
-icon: fas fa-suitcase
+icon: fa-briefcase
 order: 2
 ---
