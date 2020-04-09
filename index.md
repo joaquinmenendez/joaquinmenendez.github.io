@@ -1,4 +1,3 @@
-<head> Joaquin Menendez </head>
 <html>	
 	<body>
 		<nav>
