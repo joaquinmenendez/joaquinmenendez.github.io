@@ -1,6 +1,8 @@
-<html>	
-	<body>
-		<nav>
+# Title 
+
+## Subtitle
+
+<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
 	        	<li><a href="/about">About</a></li>
@@ -9,17 +11,3 @@
         		<li><a href="https://www.linkedin.com/in/joaquin-menendez/">LinkedIn</a></li>
     		</ul>
 		</nav>
-		<div class="container">
-    		<div class="blurb">
-        		<h1>Hi, this page is under construction!</h1>
-				<p>I will add links to things like my LinkedIn account and other things soon</p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:jm622@duke.edu">email</a></li>
-        		<li><a href="https://github.com/joaquinmenendez">github.com/joaquinmenendez</a></li>
-			</ul>
-		</footer>
-	</body>
-</html>
