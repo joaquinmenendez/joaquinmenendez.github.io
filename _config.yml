@@ -3,7 +3,7 @@ subtitle: Personal page
 description: Personal page
 remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
-avatar: assets/images/avatar.jpg
+avatar: Multimedia/images/avatar.png
 
 
 #contact
