@@ -1,3 +1,4 @@
 title: Joaquin Menendez
 description: Personal page with contact information. I will add some works in the future.
 remote_theme: chrisbobbe/jekyll-theme-prologue
+collections: [sections]
