@@ -1,7 +1,7 @@
 title: Joaquin Menendez
 subtitle: Personal page
 description: Personal page
-remote_theme: joaquinmenendz/jekyll-theme-prologue
+remote_theme: joaquinmenendez/jekyll-theme-prologue
 collections: [sections]
 avatar: Multimedia/images/empty.jpg
 
